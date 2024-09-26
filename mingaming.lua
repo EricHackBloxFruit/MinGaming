@@ -28,7 +28,7 @@ getgenv().clonefunc = nil
 local Notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/x9PSwiftz/Panda/main/Notification.lua"))() 
 local instance = {obj = {}}
 local object = instance.obj
-local HubName = "Tsuo Hub"
+local HubName = "Min Gaming Hub"
 function instance.new(class, properties)
     local inst = Instance.new(class)
     for property, value in next, properties do
