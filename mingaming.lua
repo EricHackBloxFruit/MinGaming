@@ -257,9 +257,9 @@ local function ReadKey()
     return KEY
 end
 
-local URL = 'https://tsuo-script.xyz/'
-local publicKEY1 = 3521
-local publicKEY2 = 16748
+local URL = 'https://linkvertise.com/1237089/get-key-min-gaming-hub?o=sharing'
+local publicKEY1 = KEY_7bca6a53
+local publicKEY2 = KEY_7bca6a53
 local base64_chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
 
 local REQ = (syn and syn.request) or (identifyexecutor() == 'Fluxus' and request) or http_request or http.request or request
